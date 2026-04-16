@@ -1,0 +1,111 @@
+header {
+    background-color: white;
+    text-align: center;
+    margin: 60px;
+    padding: 45px;
+    border-radius: 20px;
+}
+
+p{
+    margin: 60px;
+}
+
+header img {
+    height: 80px;
+    width: 80px;
+    border-radius:50%;
+    border: 1px solid rgb(45, 128, 211);
+    margin: 30px;
+}
+
+body {
+    font-size: 20px;
+    background-color: #f9f9f9;
+    
+}
+
+a {
+    background-color: rgb(45, 128, 211);
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 5px 8px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+.zzz {
+    background-color: rgb(249, 235, 206);
+    color: orange;
+    border-radius:10px;
+    font-size: 17px;
+    border-style: dotted ;
+    margin: 45px;
+    padding: 15px;
+
+    
+}
+
+table {
+    border: 1px solid rgb(45, 128, 211);
+    background-color: white;
+    border-collapse: collapse ;
+    width: 100%; 
+    font-size: 20px;
+    margin: 20px 0px;
+
+}
+
+td {
+    border: 1px solid black;
+    margin:5px;
+    padding: 5px;
+}
+
+h2 {
+    text-align: center;
+
+}
+
+.vvv {
+    background-color: rgb(31, 61, 88);  
+    color: white;
+}
+
+.sss {
+    background-color: rgb(230, 229, 229);
+}
+
+footer {
+    background-color: rgb(31, 61, 88);
+    color: white;
+    padding: 15px;
+    margin: 60px;
+    border-radius: 20px;
+}
+
+form {
+    background-color: white;
+    margin: 60px;
+    padding: 45px;
+    border-radius: 20px;
+}
+
+hr {
+    border-bottom: 1px solid rgb(45, 128, 211); 
+    margin: 15px;
+}
+
+.submit-btn{
+    background-color: rgb(41, 153, 41);
+    border-radius: 30px;
+    font-size: 20px;
+    color: white;
+    padding: 15px;
+    margin: 5px;
+
+}
